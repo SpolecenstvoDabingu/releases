@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Jujutsu Kaisen",
+        "nameShort": "JJK",
+        "thumbnail": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/11/jjk-s-shibuya-incident.jpg",
+        "description": "Jujutsu Kaisen je akční fantasy anime o středoškolákovi Itadorim, který se stane hostitelem mocného prokletého ducha a vstoupí do světa jujutsu čarodějů, aby bojoval proti temným silám.",
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Ryomen Sukuna",
+                "description": "První epizoda Jujutsu Kaisen představuje středoškoláka Yujiho Itadoriho, který se zaplete do světa prokleté energie, když se snaží zachránit své přátele a nečekaně pozře prst legendárního prokletého ducha Sukuny, čímž se stane jeho hostitelem.",
+                "thumbnail": "https://i.ytimg.com/vi/iGWyN2Lq36M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCBoiPXQOBKtxidSBqwbAd4WClERA",
+                "video": "https://drive.google.com/file/d/1mSr6bFg9VYr4R_SFZZV2gwd9bGFPmVjF/preview",
+                "timestamp": 1739070000,
+                "dubbers": [
+                    {
+                        "name": "Kof",
+                        "character": "Yuji Itadori"
+                    },
+                    {
+                        "name": "Tomyys",
+                        "character": "Satoru Gojo"
+                    },
+                    {
+                        "name": "Vikýř",
+                        "character": "Megumi Fushiguro"
+                    },
+                    {
+                        "name": "Ruki",
+                        "character": "Wasuke Itadori"
+                    },
+                    {
+                        "name": "Ruki",
+                        "character": "Komparz"
+                    },
+                    {
+                        "name": "Kyūbi",
+                        "character": "Setsuko Sasaki"
+                    },
+                    {
+                        "name": "Kyūbi",
+                        "character": "Sestra v nemocnici 1"
+                    },
+                    {
+                        "name": "trdlík",
+                        "character": "Takeshi Iguchi"
+                    },
+                    {
+                        "name": "KortyCZ",
+                        "character": "Takagi"
+                    },
+                    {
+                        "name": "Funky",
+                        "character": "Ryomen Sukuna"
+                    },
+                    {
+                        "name": "Emilly",
+                        "character": "Sestra v nemocnici 2"
+                    },
+                    {
+                        "name": "Hauwyn",
+                        "character": "Sestra v nemocnici 3"
+                    },
+                    {
+                        "name": "Annabelle",
+                        "character": "Sestra v nemocnici 4"
+                    },
+                    {
+                        "name": "ondzel",
+                        "character": "President Plankton"
+                    },
+                    {
+                        "name": "Hrošík",
+                        "character": "Prokletí duchové"
+                    },
+                    {
+                        "name": "Hrošík",
+                        "character": "Komparz"
+                    }
+                ]
+            }
+        ],
+        "scenes": [],
+        "movies": []
+    }
+]
