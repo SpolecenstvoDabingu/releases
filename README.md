@@ -3,6 +3,8 @@
 
 ## Data structure
 
+[Timestamp Maker](https://www.epochconverter.com)
+
 ```json
 [
     {
@@ -78,7 +80,6 @@
                     "description": "Description for episode",
                     "thumbnail": "URL to thumbnail",
                     "banner": "URL to banner",
-                    "timestamp": 0,
                     "dubbers": [
                         {
                             "name": "Dubber name",
@@ -95,7 +96,6 @@
                     "description": "Description for scene",
                     "thumbnail": "URL to thumbnail",
                     "banner": "URL to banner",
-                    "timestamp": 0,
                     "dubbers": [
                         {
                             "name": "Dubber name",
@@ -115,7 +115,6 @@
                     "description": "Description for scene",
                     "thumbnail": "URL to thumbnail",
                     "banner": "URL to banner",
-                    "timestamp": 0,
                     "dubbers": [
                         {
                             "name": "Dubber name",
