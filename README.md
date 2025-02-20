@@ -9,6 +9,7 @@
         "name": "Series Name",
         "nameShort": "SN",
         "thumbnail": "URL to thumbnail",
+        "banner": "URL to banner",
         "description": "Description for the whole series",
         "episodes": [
             {
@@ -17,6 +18,7 @@
                 "name": "Episode Name",
                 "description": "Description for episode",
                 "thumbnail": "URL to thumbnail",
+                "banner": "URL to banner",
                 "video": "URL to video",
                 "timestamp": 0,
                 "dubbers": [
@@ -37,6 +39,7 @@
                 "name": "Scene Name",
                 "description": "Description for scene",
                 "thumbnail": "URL to thumbnail",
+                "banner": "URL to banner",
                 "video": "URL to scene",
                 "timestamp": 0,
                 "dubbers": [
@@ -54,6 +57,7 @@
                 "name": "Movie Name",
                 "description": "Description for scene",
                 "thumbnail": "URL to thumbnail",
+                "banner": "URL to banner",
                 "video": "URL to scene",
                 "timestamp": 0,
                 "dubbers": [
