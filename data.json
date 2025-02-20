@@ -123,7 +123,7 @@
                 "timestamp": 1733832000,
                 "dubbers": [
                     {
-                        "name": "Gift",
+                        "name": "gift",
                         "character": "Nanami Kento"
                     },
                     {
@@ -218,7 +218,98 @@
         "banner": "https://lh3.google.com/u/0/d/1vgb2DDirF4EDXG-ST5QTgR1kgTJqhjL0=w1879-h936-iv2",
         "description": "",
         "episodes": [],
-        "scenes": [],
+        "scenes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "start": 0,
+                "end": 100,
+                "name": "Alastorova dohoda",
+                "description": "Charlie má depku, ale strejda Alastor má pod čepicí 📻🦌",
+                "thumbnail": "https://lh3.google.com/u/0/d/1ENWqMYCEKMBdJdWDyB1NNW--X27J9KWW=w1879-h936-iv2",
+                "banner": "https://lh3.google.com/u/0/d/1ENWqMYCEKMBdJdWDyB1NNW--X27J9KWW=w1879-h936-iv2",
+                "video": "https://drive.google.com/file/d/1rG6nDB-eS7nf9-q06jqCwJHwsrbJ6BrH/preview",
+                "timestamp": 1739880000,
+                "dubbers": [
+                    {
+                        "name": "Tomyys",
+                        "character": "Alastor"
+                    },
+                    {
+                        "name": "Lexi",
+                        "character": "Charlie"
+                    },
+                    {
+                        "name": "Emilly",
+                        "character": "Veggie"
+                    }
+                ]
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "start": 0,
+                "end": 100,
+                "name": "Konec přenosu",
+                "description": "Rock vs Jazz. Kdo vyhraje?",
+                "thumbnail": "https://lh3.google.com/u/0/d/14Ew2-rBnD7GVreg1JkJpntjkg28Bvk7K=w1879-h936-iv1",
+                "banner": "https://lh3.google.com/u/0/d/14Ew2-rBnD7GVreg1JkJpntjkg28Bvk7K=w1879-h936-iv1",
+                "video": "https://drive.google.com/file/d/16YHyZ9SEQ5oqbj3D2jLfyU-RPg_YTHFQ/preview",
+                "timestamp": 1736942400,
+                "dubbers": [
+                    {
+                        "name": "Tomyys",
+                        "character": "Alastor"
+                    },
+                    {
+                        "name": "JESTERR",
+                        "character": "Adam"
+                    },
+                    {
+                        "name": "ondzel",
+                        "character": "Vox"
+                    }
+                ]
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "start": 0,
+                "end": 100,
+                "name": "Lucifer u telefonu",
+                "description": "Charlie už neví co má dělat a tak se rozhodne zavolat tatínkovi o pomoc ( jenže daddy issues hitnou )",
+                "thumbnail": "https://lh3.google.com/u/0/d/14Ew2-rBnD7GVreg1JkJpntjkg28Bvk7K=w1879-h936-iv1",
+                "banner": "https://lh3.google.com/u/0/d/14Ew2-rBnD7GVreg1JkJpntjkg28Bvk7K=w1879-h936-iv1",
+                "video": "https://drive.google.com/file/d/16YHyZ9SEQ5oqbj3D2jLfyU-RPg_YTHFQ/preview",
+                "timestamp": 1740312000,
+                "dubbers": [
+                    {
+                        "name": "Amoon",
+                        "character": "Lucifer"
+                    },
+                    {
+                        "name": "Lexi",
+                        "character": "Charlie"
+                    },
+                    {
+                        "name": "Emilly",
+                        "character": "Vaggie"
+                    },
+                    {
+                        "name": "Nik",
+                        "character": "Angel Dusk"
+                    },
+                    {
+                        "name": "Kir4",
+                        "character": "Niffty"
+                    },
+                    {
+                        "name": "gift",
+                        "character": "Husker"
+                    }
+                ]
+            }
+        ],
         "movies": [],
         "upcomming": {
             "episodes": [],
